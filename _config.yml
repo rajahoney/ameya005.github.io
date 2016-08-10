@@ -1,2 +1,3 @@
 name : Ameya Joshi, Computer Vision Researcher
 markdown : kramdown
+permalink: /blog/:year/:month/:day/:title
