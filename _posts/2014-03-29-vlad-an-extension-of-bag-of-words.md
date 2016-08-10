@@ -3,7 +3,6 @@ author: ameya005
 comments: true
 date: 2014-03-29 16:56:00+00:00
 layout: post
-link: https://ameyajoshi005.wordpress.com/2014/03/29/vlad-an-extension-of-bag-of-words/
 slug: vlad-an-extension-of-bag-of-words
 title: VLAD- An extension of Bag of Words
 wordpress_id: 220
