@@ -1,11 +1,10 @@
 ---
+title: The Start of An Age
+date: 2012-01-26 02:46:24 +05:30
 author: ameya005
 comments: true
-date: 2012-01-25 21:16:24+00:00
 layout: post
 link: https://ameyajoshi005.wordpress.com/2012/01/26/the-start-of-an-age/
-slug: the-start-of-an-age
-title: The Start of An Age
 wordpress_id: 4
 ---
 

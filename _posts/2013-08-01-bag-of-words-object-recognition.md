@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2013-08-01 07:41:00+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2013/08/01/bag-of-words-object-recognition/
-slug: bag-of-words-object-recognition
 title: 'Bag of Words - Object Recognition '
-wordpress_id: 170
+date: 2013-08-01 13:11:00 +05:30
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -16,6 +10,11 @@ tags:
 - object classification
 - Object Recognition
 - SIFT
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2013/08/01/bag-of-words-object-recognition/
+wordpress_id: 170
 ---
 
 Hey guys,
