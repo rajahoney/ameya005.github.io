@@ -1,18 +1,17 @@
 ---
-author: ameya005
-comments: true
-date: 2016-07-24 03:02:22+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2016/07/24/deep-networks-a-rebooot/
-slug: deep-networks-a-rebooot
 title: 'Deep Networks: A Rebooot'
-wordpress_id: 286
+date: 2016-07-24 08:32:22 +05:30
 categories:
 - Artificial Intelligence
 - Image Processing &amp; Computer Vision
 tags:
 - Computer Vision
 - Deep Learning
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2016/07/24/deep-networks-a-rebooot/
+wordpress_id: 286
 ---
 
 It's been ages since I last posted here. But it is time to reboot this blog.

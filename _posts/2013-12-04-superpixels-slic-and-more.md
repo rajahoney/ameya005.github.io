@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2013-12-04 07:32:41+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2013/12/04/superpixels-slic-and-more/
-slug: superpixels-slic-and-more
 title: 'SuperPixels: SLIC and more'
-wordpress_id: 182
+date: 2013-12-04 13:02:41 +05:30
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -15,6 +9,11 @@ tags:
 - segmentation
 - SLIC
 - SLIC Superpixels
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2013/12/04/superpixels-slic-and-more/
+wordpress_id: 182
 ---
 
 Hey guys,

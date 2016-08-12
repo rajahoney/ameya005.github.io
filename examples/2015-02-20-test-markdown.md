@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Test markdown
+layout: post
 subtitle: Each post also has a subtitle
 ---
 

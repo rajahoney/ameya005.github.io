@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2012-11-10 18:13:41+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/
-slug: the-traveling-salesman-problem-using-ant-algorithms
 title: The Traveling Salesman Problem - Using Ant Algorithms
-wordpress_id: 113
+date: 2012-11-10 23:43:41 +05:30
 categories:
 - Artificial Intelligence
 tags:
@@ -17,6 +11,11 @@ tags:
 - Optimization
 - programming
 - Travelling salesman problem
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2012/11/10/the-traveling-salesman-problem-using-ant-algorithms/
+wordpress_id: 113
 ---
 
 Hey guys,

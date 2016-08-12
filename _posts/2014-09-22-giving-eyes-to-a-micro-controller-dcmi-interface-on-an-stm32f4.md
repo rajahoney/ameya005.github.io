@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2014-09-22 09:37:44+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2014/09/22/giving-eyes-to-a-micro-controller-dcmi-interface-on-an-stm32f4/
-slug: giving-eyes-to-a-micro-controller-dcmi-interface-on-an-stm32f4
 title: 'Giving eyes to a micro controller: DCMI interface on an STM32F4'
-wordpress_id: 275
+date: 2014-09-22 15:07:44 +05:30
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -14,6 +8,11 @@ tags:
 - Embedded Systems
 - Image Processing &amp; Computer Vision
 - STM32F4
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2014/09/22/giving-eyes-to-a-micro-controller-dcmi-interface-on-an-stm32f4/
+wordpress_id: 275
 ---
 
 It has been another long hiatus between posts. But, I have managed to learn and do quite a bit of stuff in these last few months and it has been rewarding to say the least.

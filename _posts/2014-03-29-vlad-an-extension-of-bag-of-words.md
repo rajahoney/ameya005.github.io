@@ -1,11 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2014-03-29 16:56:00+00:00
-layout: post
-slug: vlad-an-extension-of-bag-of-words
 title: VLAD- An extension of Bag of Words
-wordpress_id: 220
+date: 2014-03-29 22:26:00 +05:30
 categories:
 - Image Processing &amp; Computer Vision
 tags:
@@ -17,6 +12,10 @@ tags:
 - Object Recognition
 - scene classification
 - VLAD
+author: ameya005
+comments: true
+layout: post
+wordpress_id: 220
 ---
 
 Recently, I was a participant at TagMe- an image categorization competition conducted by Microsoft and Indian Institute of Science, Bangalore. The problem statement was to classify a set of given images into five classes: faces, shoes, flowers, buildings and vehicles. As it goes, it is not a trivial problem to solve. So, I decided to attempt my existing bag-of-words algorithm on that. It worked to an extent, I got an accuracy of 86% approximately with SIFT features and an RBF SVM for classification. In order to improve my score though, I decided to look at better methods of feature quantization. I had been looking at VLAD (Vector of Locally Aggregated Descriptors): A first order extension to BoW for my Leaf Recognition project.

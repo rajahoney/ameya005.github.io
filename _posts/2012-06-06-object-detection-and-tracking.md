@@ -1,14 +1,13 @@
 ---
-author: ameya005
-comments: true
-date: 2012-06-06 03:36:08+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2012/06/06/object-detection-and-tracking/
-slug: object-detection-and-tracking
 title: Object Detection and Tracking
-wordpress_id: 10
+date: 2012-06-06 09:06:08 +05:30
 categories:
 - Augmented Reality
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2012/06/06/object-detection-and-tracking/
+wordpress_id: 10
 ---
 
 Couple of days ago, I was shown this video by one of my friends.

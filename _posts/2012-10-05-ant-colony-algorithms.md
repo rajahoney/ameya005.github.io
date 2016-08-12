@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2012-10-05 11:14:48+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2012/10/05/ant-colony-algorithms/
-slug: ant-colony-algorithms
 title: Ant Colony Algorithms
-wordpress_id: 78
+date: 2012-10-05 16:44:48 +05:30
 categories:
 - Artificial Intelligence
 tags:
@@ -16,6 +10,11 @@ tags:
 - Projects
 - Research
 - technology
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2012/10/05/ant-colony-algorithms/
+wordpress_id: 78
 ---
 
 Hey guys, Thanks for the great response on my previous article.

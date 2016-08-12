@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About me
+layout: page
 subtitle: If you want to know more about me
 ---
 

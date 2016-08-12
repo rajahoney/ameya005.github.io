@@ -1,17 +1,16 @@
 ---
-author: ameya005
-comments: true
-date: 2012-09-27 19:17:09+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2012/09/28/color-predicates/
-slug: color-predicates
 title: Color Predicates
-wordpress_id: 15
+date: 2012-09-28 00:47:09 +05:30
 categories:
 - Image Processing &amp; Computer Vision
 tags:
 - human computer interaction
 - programming
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2012/09/28/color-predicates/
+wordpress_id: 15
 ---
 
 It's been a long time since I posted something here. But here it is.

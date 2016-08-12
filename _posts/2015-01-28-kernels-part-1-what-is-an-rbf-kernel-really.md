@@ -1,11 +1,10 @@
 ---
+title: 'Kernels Part 1: What is an RBF Kernel?  Really?'
+date: 2015-01-28 15:03:22 +05:30
 author: ameya005
 comments: true
-date: 2015-01-28 09:33:22+00:00
 layout: post
 link: https://ameyajoshi005.wordpress.com/2015/01/28/kernels-part-1-what-is-an-rbf-kernel-really/
-slug: kernels-part-1-what-is-an-rbf-kernel-really
-title: 'Kernels Part 1: What is an RBF Kernel?  Really?'
 wordpress_id: 287
 ---
 

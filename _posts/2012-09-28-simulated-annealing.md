@@ -1,12 +1,6 @@
 ---
-author: ameya005
-comments: true
-date: 2012-09-28 09:41:31+00:00
-layout: post
-link: https://ameyajoshi005.wordpress.com/2012/09/28/simulated-annealing/
-slug: simulated-annealing
 title: Simulated Annealing
-wordpress_id: 36
+date: 2012-09-28 15:11:31 +05:30
 categories:
 - Artificial Intelligence
 tags:
@@ -16,6 +10,11 @@ tags:
 - Projects
 - science
 - technology
+author: ameya005
+comments: true
+layout: post
+link: https://ameyajoshi005.wordpress.com/2012/09/28/simulated-annealing/
+wordpress_id: 36
 ---
 
 Recently, I have been fascinated by algorithms generally used for AI. Simulated Annealing is one of the basic algorithms for finding solutions a constrained problem. I have been greatly helped along this path by a book : [Artificial Intelligence Application Programming(1st edition) by M. Tim Jones. ](http://http://www.flipkart.com/artificial-intelligence-application-programming-8177224271/p/itmdyufmmwhw849j?pid=9788177224276&ref=0dce851e-f9f2-4c4f-b499-3610d163ebfc)

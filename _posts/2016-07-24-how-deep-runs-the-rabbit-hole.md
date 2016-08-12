@@ -1,11 +1,10 @@
 ---
+title: How 'Deep' runs The rabbit hole
+date: 2016-07-24 08:23:30 +05:30
 author: ameya005
 comments: true
-date: 2016-07-24 02:53:30+00:00
 layout: post
 link: https://ameyajoshi005.wordpress.com/2016/07/24/how-deep-runs-the-rabbit-hole/
-slug: how-deep-runs-the-rabbit-hole
-title: How 'Deep' runs The rabbit hole
 wordpress_id: 305
 ---
 
