@@ -24,11 +24,11 @@ description: Computer Scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "http://ameya005.github.io"
+  Blog:
   Resources:
-    - Computer Vision:
-    - Github Profile: "https://github.com/ameya0005"
-    - Previous Blog: "https://ameyajoshi005@wordpress.com"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://ameya005.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -70,26 +70,11 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-
-# --- Misc --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "ameya005-github-io"
-
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-82254442-1"
-
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+disqus: ameya005-github-io
+google_analytics: UA-82254442-1
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: "/:year-:month-:day-:title/"
 paginate: 5
 
 kramdown:
@@ -127,18 +112,18 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: _posts
+  media: img
   ignore:
     - 404.html
     - LICENSE
     - feed.xml
     - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
+  - "/_layouts"
+  - "/_includes"
+  - "/css"
+  - "/img"
+  - "/js"
   metadata:
     _posts:
       - name: "layout"
