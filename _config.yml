@@ -24,11 +24,11 @@ description: Computer Scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog:
+  Blog: "http://ameya005.github.io"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Computer Vision:
+    - Github Profile: "https://github.com/ameya0005"
+    - Previous Blog: "https://ameyajoshi005@wordpress.com"
   Author's home: "http://ameya005.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
